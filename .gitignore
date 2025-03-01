@@ -1,0 +1,4 @@
+medical_examination.csv
+__pycache__/
+*.pyc
+*.pyo
